@@ -1,0 +1,20 @@
+{
+  "id": "survival_crafting_tools",
+  "authors": [
+    {
+      "name": "MoonShadow233",
+      "link": "https://github.com/MoonShadow233"
+    },
+    {
+      "name": "fashiye",
+      "link": "https://github.com/fashiye"
+    }
+  ],
+  "repository": "https://github.com/MoonShadow233/MCDR_Plugin-Tools",
+  "branch": "main",
+  "related_path": ".",
+  "labels": ["tool", "management", "information"],
+  "introduction": {
+    "zh_cn": "README.md"
+  }
+}
